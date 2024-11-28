@@ -1,0 +1,50 @@
+.projects-container {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(99, 102, 241, 0.1);
+  overflow: hidden;
+  backdrop-filter: blur(8px);
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.projects-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  table-layout: fixed;
+}
+
+.projects-table th,
+.projects-table td {
+  padding: 1.25rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(99, 102, 241, 0.1);
+}
+
+.projects-table th {
+  background-color: #f0f7ff;
+  font-weight: 600;
+  color: #2563eb;
+  font-size: 1.1rem;
+}
+
+.projects-table tr:hover {
+  background-color: rgba(99, 102, 241, 0.05);
+}
+
+.projects-table td {
+  color: #4b5563;
+  font-size: 1.05rem;
+}
+
+.projects-table th:first-child,
+.projects-table td:first-child {
+  width: 15%;
+}
+
+.projects-table th:not(:first-child),
+.projects-table td:not(:first-child) {
+  width: 42.5%;
+}
