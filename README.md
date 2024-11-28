@@ -2,6 +2,10 @@ Kickstarter Projects Dashboard
 
 A React-based web application showcasing highly-rated Kickstarter projects with a responsive table, pagination, and a modern UI.
 
+🌐 Live Demo
+
+Check out the live application: Kickstarter Projects Dashboard
+
 🚀 Features
 
 Display Kickstarter project data with sorting and pagination (5 records per page).
