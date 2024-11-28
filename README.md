@@ -4,7 +4,7 @@ A React-based web application showcasing highly-rated Kickstarter projects with 
 
 🌐 Live Demo
 
-Check out the live application: Kickstarter Projects Dashboard
+Check out the live application: Kickstarter Projects Dashboard  https://saas-labs-frontend-assignment.netlify.app/
 
 🚀 Features
 
