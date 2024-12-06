@@ -44,7 +44,6 @@ kickstarter-projects/
 │   │   ├── formatters.ts
 │   │   └── projectTransforms.ts
 │   ├── index.tsx
-│   └── vite-env.d.ts
 ├── .babelrc
 ├── package.json
 ├── tsconfig.json
