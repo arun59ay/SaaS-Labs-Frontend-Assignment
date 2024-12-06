@@ -21,7 +21,6 @@ kickstarter-projects/
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   ├── App.tsx
 │   │   ├── Footer.tsx
 │   │   ├── Header.tsx
 │   │   ├── Pagination.tsx
@@ -44,10 +43,12 @@ kickstarter-projects/
 │   │   ├── formatters.ts
 │   │   └── projectTransforms.ts
 │   ├── index.tsx
+├───├── App.tsx
 ├── .babelrc
 ├── package.json
 ├── tsconfig.json
 └── webpack.config.js
+
 
 React 18, TypeScript, Webpack 5, Babel, CSS3.
 🛠️ Setup
